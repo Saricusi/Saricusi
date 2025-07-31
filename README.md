@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Sarita Cusi Palomino!
 
-<!--
-**Saricusi/Saricusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economista con más de 6 años de experiencia en políticas públicas, análisis de datos 📊 y diseño de mecanismos de financiamiento 💼. Me apasiona transformar información en decisiones útiles para mejorar servicios públicos 📈.
 
-Here are some ideas to get you started:
+## 💻 ¿Qué puedes encontrar en mis repos?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Proyectos de análisis de datos en Stata, R y Python
+- 📚 Guías y recursos de monitoreo y evaluación
+- 🧩 Herramientas de automatización para mejorar la gestión pública
+- 👩‍💻 Iniciativas para enseñar y aprender GitHub, especialmente para mujeres que versionan
+
+## 🚀 Estoy aprendiendo sobre:
+
+- Git y GitHub para colaboración y documentación de código 🛠️  
+- Power BI y visualización interactiva 📈  
+- Automatización de procesos con scripts y macros 🤖
+
+## 🤝 Me interesa colaborar en:
+
+- Proyectos de impacto social con enfoque en educación, cultura o género  
+- Equipos que promuevan el uso de evidencia para mejorar la gestión pública  
+- Iniciativas que enseñen habilidades digitales a más mujeres 💜
+
+## 📫 Conectemos:
+
+- ✉️ saritacusipalomino@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) *(actualiza con tu enlace real)*
+
+---
+
+> ✨ “La evidencia es poderosa, pero aún más cuando está al servicio de las personas.” ✨
+

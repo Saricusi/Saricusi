@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Sarita Cusi Palomino!
+# 👋 ¡Hola, soy Sarita!
 
 🎓 Economista con más de 6 años de experiencia en políticas públicas, análisis de datos 📊 y diseño de mecanismos de financiamiento 💼. Me apasiona transformar información en decisiones útiles para mejorar servicios públicos 📈.
 

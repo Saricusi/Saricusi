@@ -23,8 +23,8 @@
 
 ## 📫 Conectemos:
 
-- ✉️ saritacusipalomino@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) *(actualiza con tu enlace real)*
+- ✉️ 
+- 🔗 [LinkedIn](link) *(actualiza con tu enlace real)*
 
 ---
 

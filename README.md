@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Sarita!
 
-🎓 Economista con más de 6 años de experiencia en políticas públicas, análisis de datos 📊 y diseño de mecanismos de financiamiento 💼. Me apasiona transformar información en decisiones útiles para mejorar servicios públicos 📈.
+🎓 Economista con experiencia en políticas públicas, gestión de información y análisis de datos 📊. Me apasiona transformar información en decisiones útiles para mejorar servicios públicos 📈.
 
 ## 💻 ¿Qué puedes encontrar en mis repos?
 
@@ -24,7 +24,7 @@
 ## 📫 Conectemos:
 
 - ✉️ 
-- 🔗 [LinkedIn](link) *(actualiza con tu enlace real)*
+- 🔗 [LinkedIn](link)
 
 ---
 
